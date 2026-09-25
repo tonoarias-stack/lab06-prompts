@@ -3,3 +3,4 @@
 Laboratorio 6 - Fundamentos de Ingeniería de Prompts
 
 - [Bitacora de prompts](prompts/BITACORA.md)
+- [Tarea: mi prompt profesional](prompts/TAREA.md)
